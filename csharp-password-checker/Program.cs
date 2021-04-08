@@ -61,8 +61,8 @@ namespace csharp_password_checker
             Console.ReadLine();
         }
         //Add the Contains method here after the Main method, but still inside the MainClass class
-        //Using the expression bodied definition or the lambda expression
-        //Fat arrow mwthod (=>)
+        //Using the Expression-bodied definition or the lambda expression
+        //Fat arrow method (=>)
         public static bool Contains(string target, string list) => target.IndexOfAny(list.ToCharArray()) != -1;
 
     }
