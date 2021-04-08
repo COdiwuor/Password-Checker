@@ -58,9 +58,8 @@ namespace csharp_password_checker
                     Console.WriteLine("This password doesn't meet the standards");
                     break;
             }
-            //Console.ReadLine();
+            Console.ReadLine();
         }
-
         //Add the Contains method here after the Main method, but still inside the MainClass class
         //Using the expression bodied definition or the lambda expression
         //Fat arrow mwthod (=>)
