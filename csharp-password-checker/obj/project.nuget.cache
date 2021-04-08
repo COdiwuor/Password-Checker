@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VhIAG/c2G46gp+7icSyI9cMunsCtVgnMzWwJK04FLNAgvL6e6P1rsS64Id75ZtrQJGZ7rM9oxsmtw10De/KYig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\source\\repos\\csharp-password-checker\\csharp-password-checker\\csharp-password-checker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
