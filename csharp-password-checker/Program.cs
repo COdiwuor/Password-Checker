@@ -14,7 +14,7 @@ namespace csharp_password_checker
             string specialChar = "#?!,-'/`_*$";
             string password = Console.ReadLine();
             int score = 0;
-
+     
             if ((score) >= (minLength))
             {
                 score++;
